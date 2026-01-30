@@ -35,6 +35,14 @@ The project focuses on comparing ensemble methods and performing extensive hyper
 * **Instances:** 2,789.
 * **Features:** 44.
 * **Target:** Paddy yield category (discretized into Low, Medium, High based on quantiles).
+  
+### Download Dataset
+The dataset file is not included in this repository. Please download `paddydataset.csv` from the UCI Machine Learning Repository and place it in the **root directory** of this project (same folder as `paddy_yield_analysis.ipynb`).
+
+After downloading, the repository structure should look like this:
+- `paddy_yield_analysis.ipynb`
+- `paddydataset.csv`
+- `requirements.txt`
 
 ## Methodology Overview
 1.  **Preprocessing:** Target discretization using 33rd and 67th percentiles to ensure balanced classes.
