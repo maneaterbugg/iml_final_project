@@ -13,7 +13,7 @@ This is a complete end-to-end machine learning classification project that predi
 ## 📁 Deliverables
 
 ### 1. Main Report
-**File:** `Paddy_Yield_Classification_Report.docx`
+**File:** `Paddy_Yield_Classification_Report.pdf`
 
 Comprehensive 20+ page report including:
 - Executive Summary
